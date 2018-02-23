@@ -1,5 +1,3 @@
-// index.php <?php ?>
-
 <?php
 
 if(isset($_POST['email'])) {
