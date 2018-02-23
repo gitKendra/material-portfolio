@@ -362,7 +362,7 @@
     <!--  Scripts-->
     <!-- <script src="min/plugin-min.js"></script>
     <script src="min/custom-min.js"></script> -->
-    <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script type="text/javascript" src="js/materialize.js"></script>
     <script type="text/javascript" src="js/init.js"></script>
 
